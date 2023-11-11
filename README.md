@@ -1,2 +1,1 @@
-# ICSA-Smart-Contract-Audits.
-PEX Audit is now ICSA Audit.
+Audits are carried out in conjunction with International Crypto Services Agency (ICSA).
