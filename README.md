@@ -1,1 +1,1 @@
-Audits are carried out in conjunction with International Crypto Services Agency (ICSA).
+PEX audit is now part of ICSA.
